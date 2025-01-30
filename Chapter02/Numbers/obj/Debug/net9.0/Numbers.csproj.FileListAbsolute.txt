@@ -1,0 +1,14 @@
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/bin/Debug/net9.0/Numbers
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/bin/Debug/net9.0/Numbers.deps.json
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/bin/Debug/net9.0/Numbers.runtimeconfig.json
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/bin/Debug/net9.0/Numbers.dll
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/bin/Debug/net9.0/Numbers.pdb
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/obj/Debug/net9.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfoInputs.cache
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfo.cs
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/obj/Debug/net9.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/obj/Debug/net9.0/Numbers.dll
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/obj/Debug/net9.0/refint/Numbers.dll
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/obj/Debug/net9.0/Numbers.pdb
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/obj/Debug/net9.0/Numbers.genruntimeconfig.cache
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Numbers/obj/Debug/net9.0/ref/Numbers.dll

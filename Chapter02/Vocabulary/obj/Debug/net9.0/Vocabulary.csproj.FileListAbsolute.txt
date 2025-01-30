@@ -1,0 +1,14 @@
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/obj/Debug/net9.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/obj/Debug/net9.0/Vocabulary.AssemblyInfoInputs.cache
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/obj/Debug/net9.0/Vocabulary.AssemblyInfo.cs
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/obj/Debug/net9.0/Vocabulary.csproj.CoreCompileInputs.cache
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/bin/Debug/net9.0/Vocabulary
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/bin/Debug/net9.0/Vocabulary.deps.json
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/bin/Debug/net9.0/Vocabulary.runtimeconfig.json
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/bin/Debug/net9.0/Vocabulary.dll
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/bin/Debug/net9.0/Vocabulary.pdb
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/obj/Debug/net9.0/Vocabulary.dll
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/obj/Debug/net9.0/refint/Vocabulary.dll
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/obj/Debug/net9.0/Vocabulary.pdb
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/obj/Debug/net9.0/Vocabulary.genruntimeconfig.cache
+/Users/kwon-ohhyeun/develop/CSharp/Code/Chapter02/Vocabulary/obj/Debug/net9.0/ref/Vocabulary.dll
