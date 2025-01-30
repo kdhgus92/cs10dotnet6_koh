@@ -1,0 +1,14 @@
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\bin\Debug\net8.0\TopLevelProgram.exe
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\bin\Debug\net8.0\TopLevelProgram.deps.json
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\bin\Debug\net8.0\TopLevelProgram.runtimeconfig.json
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\bin\Debug\net8.0\TopLevelProgram.dll
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\bin\Debug\net8.0\TopLevelProgram.pdb
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\obj\Debug\net8.0\TopLevelProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\obj\Debug\net8.0\TopLevelProgram.AssemblyInfoInputs.cache
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\obj\Debug\net8.0\TopLevelProgram.AssemblyInfo.cs
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\obj\Debug\net8.0\TopLevelProgram.csproj.CoreCompileInputs.cache
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\obj\Debug\net8.0\TopLevelProgram.dll
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\obj\Debug\net8.0\refint\TopLevelProgram.dll
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\obj\Debug\net8.0\TopLevelProgram.pdb
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\obj\Debug\net8.0\TopLevelProgram.genruntimeconfig.cache
+D:\develop\c_sharp\Code\Chapter01\TopLevelProgram\obj\Debug\net8.0\ref\TopLevelProgram.dll
