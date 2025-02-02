@@ -1,0 +1,15 @@
+D:\develop\c_sharp\Code\Chapter02\Variables\obj\Debug\net9.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\develop\c_sharp\Code\Chapter02\Variables\obj\Debug\net9.0\Variables.AssemblyInfoInputs.cache
+D:\develop\c_sharp\Code\Chapter02\Variables\obj\Debug\net9.0\Variables.AssemblyInfo.cs
+D:\develop\c_sharp\Code\Chapter02\Variables\obj\Debug\net9.0\Variables.csproj.CoreCompileInputs.cache
+D:\develop\c_sharp\Code\Chapter02\Variables\obj\Debug\net9.0\Variables.sourcelink.json
+D:\develop\c_sharp\Code\Chapter02\Variables\bin\Debug\net9.0\Variables.exe
+D:\develop\c_sharp\Code\Chapter02\Variables\bin\Debug\net9.0\Variables.deps.json
+D:\develop\c_sharp\Code\Chapter02\Variables\bin\Debug\net9.0\Variables.runtimeconfig.json
+D:\develop\c_sharp\Code\Chapter02\Variables\bin\Debug\net9.0\Variables.dll
+D:\develop\c_sharp\Code\Chapter02\Variables\bin\Debug\net9.0\Variables.pdb
+D:\develop\c_sharp\Code\Chapter02\Variables\obj\Debug\net9.0\Variables.dll
+D:\develop\c_sharp\Code\Chapter02\Variables\obj\Debug\net9.0\refint\Variables.dll
+D:\develop\c_sharp\Code\Chapter02\Variables\obj\Debug\net9.0\Variables.pdb
+D:\develop\c_sharp\Code\Chapter02\Variables\obj\Debug\net9.0\Variables.genruntimeconfig.cache
+D:\develop\c_sharp\Code\Chapter02\Variables\obj\Debug\net9.0\ref\Variables.dll
