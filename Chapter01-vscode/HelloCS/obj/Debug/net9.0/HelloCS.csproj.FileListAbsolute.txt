@@ -1,0 +1,14 @@
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\bin\Debug\net9.0\HelloCS.exe
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\bin\Debug\net9.0\HelloCS.deps.json
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\bin\Debug\net9.0\HelloCS.runtimeconfig.json
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\bin\Debug\net9.0\HelloCS.dll
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\bin\Debug\net9.0\HelloCS.pdb
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.AssemblyInfoInputs.cache
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.AssemblyInfo.cs
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.csproj.CoreCompileInputs.cache
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.dll
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\refint\HelloCS.dll
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.pdb
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\HelloCS.genruntimeconfig.cache
+D:\develop\c_sharp\Code\Chapter01-vscode\HelloCS\obj\Debug\net9.0\ref\HelloCS.dll

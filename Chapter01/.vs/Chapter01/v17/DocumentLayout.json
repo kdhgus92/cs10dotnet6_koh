@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\c_sharp\\Code\\Chapter01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB6747-3C48-42B6-ADDD-D7E9460BB220}|TopLevelProgram\\TopLevelProgram.csproj|d:\\develop\\c_sharp\\code\\chapter01\\toplevelprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBB6747-3C48-42B6-ADDD-D7E9460BB220}|TopLevelProgram\\TopLevelProgram.csproj|solutionrelative:toplevelprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB6747-3C48-42B6-ADDD-D7E9460BB220}|TopLevelProgram\\TopLevelProgram.csproj|d:\\develop\\c_sharp\\code\\chapter01\\toplevelprogram\\obj\\debug\\net8.0\\toplevelprogram.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBB6747-3C48-42B6-ADDD-D7E9460BB220}|TopLevelProgram\\TopLevelProgram.csproj|solutionrelative:toplevelprogram\\obj\\debug\\net8.0\\toplevelprogram.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB652EE-36AE-47D9-B018-D103B4E85DF4}|HelloCS\\HelloCS.csproj|d:\\develop\\c_sharp\\code\\chapter01\\hellocs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB652EE-36AE-47D9-B018-D103B4E85DF4}|HelloCS\\HelloCS.csproj|solutionrelative:hellocs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopLevelProgram.GlobalUsings.g.cs",
+              "DocumentMoniker": "D:\\develop\\c_sharp\\Code\\Chapter01\\TopLevelProgram\\obj\\Debug\\net8.0\\TopLevelProgram.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "TopLevelProgram\\obj\\Debug\\net8.0\\TopLevelProgram.GlobalUsings.g.cs",
+              "ToolTip": "D:\\develop\\c_sharp\\Code\\Chapter01\\TopLevelProgram\\obj\\Debug\\net8.0\\TopLevelProgram.GlobalUsings.g.cs",
+              "RelativeToolTip": "TopLevelProgram\\obj\\Debug\\net8.0\\TopLevelProgram.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:40:15.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\develop\\c_sharp\\Code\\Chapter01\\TopLevelProgram\\Program.cs",
+              "RelativeDocumentMoniker": "TopLevelProgram\\Program.cs",
+              "ToolTip": "D:\\develop\\c_sharp\\Code\\Chapter01\\TopLevelProgram\\Program.cs",
+              "RelativeToolTip": "TopLevelProgram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:38:54.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\develop\\c_sharp\\Code\\Chapter01\\HelloCS\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCS\\Program.cs",
+              "ToolTip": "D:\\develop\\c_sharp\\Code\\Chapter01\\HelloCS\\Program.cs",
+              "RelativeToolTip": "HelloCS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:35:10.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

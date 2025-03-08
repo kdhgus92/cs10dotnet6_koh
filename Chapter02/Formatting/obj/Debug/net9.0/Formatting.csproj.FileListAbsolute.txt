@@ -1,0 +1,15 @@
+D:\develop\c_sharp\Code\Chapter02\Formatting\bin\Debug\net9.0\Formatting.exe
+D:\develop\c_sharp\Code\Chapter02\Formatting\bin\Debug\net9.0\Formatting.deps.json
+D:\develop\c_sharp\Code\Chapter02\Formatting\bin\Debug\net9.0\Formatting.runtimeconfig.json
+D:\develop\c_sharp\Code\Chapter02\Formatting\bin\Debug\net9.0\Formatting.dll
+D:\develop\c_sharp\Code\Chapter02\Formatting\bin\Debug\net9.0\Formatting.pdb
+D:\develop\c_sharp\Code\Chapter02\Formatting\obj\Debug\net9.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\develop\c_sharp\Code\Chapter02\Formatting\obj\Debug\net9.0\Formatting.AssemblyInfoInputs.cache
+D:\develop\c_sharp\Code\Chapter02\Formatting\obj\Debug\net9.0\Formatting.AssemblyInfo.cs
+D:\develop\c_sharp\Code\Chapter02\Formatting\obj\Debug\net9.0\Formatting.csproj.CoreCompileInputs.cache
+D:\develop\c_sharp\Code\Chapter02\Formatting\obj\Debug\net9.0\Formatting.sourcelink.json
+D:\develop\c_sharp\Code\Chapter02\Formatting\obj\Debug\net9.0\Formatting.dll
+D:\develop\c_sharp\Code\Chapter02\Formatting\obj\Debug\net9.0\refint\Formatting.dll
+D:\develop\c_sharp\Code\Chapter02\Formatting\obj\Debug\net9.0\Formatting.pdb
+D:\develop\c_sharp\Code\Chapter02\Formatting\obj\Debug\net9.0\Formatting.genruntimeconfig.cache
+D:\develop\c_sharp\Code\Chapter02\Formatting\obj\Debug\net9.0\ref\Formatting.dll
